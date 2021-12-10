@@ -1,4 +1,4 @@
-﻿absl-py==0.13.0
+absl-py==0.13.0
 altgraph==0.17
 arrow==1.1.1
 astunparse==1.6.3
@@ -49,7 +49,6 @@ pipwin==0.5.1
 protobuf==3.17.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/Pc/pipwin/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 pyinstaller==4.4
 pyinstaller-hooks-contrib==2021.2
 pyjsparser==2.7.1
